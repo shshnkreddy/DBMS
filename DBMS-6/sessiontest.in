@@ -1,0 +1,4 @@
+CREATEDB academia.txt 0
+DBOPEN academia 0
+STORE student 10002 0
+DBCLOSE 0
